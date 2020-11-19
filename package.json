@@ -1,0 +1,11 @@
+{
+  "name": "fun-greetings-bot",
+  "version": "0.0.1",
+  "description": "Бот своеобразно сообщает о новых пользователях в чате",
+  "main": "bot.js",
+  "author": "DzenDyn",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  }
+}
